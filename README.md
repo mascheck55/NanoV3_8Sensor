@@ -1,5 +1,5 @@
 ## License
-<div style="text-align: center;">
+<div align="center">
 The software is based on ideas in the MIT licensed software 
   "Schrankensteuerung Zustandsautomat Schrankenbewegung"
           Copyright (c) 2025 Albert Messmer
@@ -15,11 +15,11 @@ Copyright (c) 2026 Andreas Mascheck
 ---
 
 ## Description
-Tis example uses my class "Arduino Nano as a 8 channel LC proximity sensor". In this case A4 and A5 are used for i2c communication. As a replacement D7 and D8 will be used as digital Input. For example by using two KY 032 IR proximity sensors. 
-![Alt text](pictures/8SensorNanoV3.png)
-Frizzing proposal
+This example demonstrates my "Arduino Nano as an 8-channel LC proximity sensor" class. Since A4 and A5 are utilized for I2C communication, digital inputs D7 and D8 serve as replacements. This can be implemented using, for example, two KY 032 IR proximity sensors.
 
-I think it is a good idea to use something out of the random parts box. I had a couple of Nanos and KY 032 as leftovers from past.
+![Alt text](pictures/8SensorNanoV3.png) Fritzing proposal
+
+I believe it's a good idea to repurpose components from the spare parts bin. I had several leftover Arduino Nanos and KY 032 sensors from previous projects.
 
 ---
 
