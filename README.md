@@ -15,7 +15,7 @@ Copyright (c) 2026 Andreas Mascheck
 ---
 
 ## Description
-Tis example uses my class to use an Arduino Nano as a 8 channel LC proximity sensor. In this case A4 and A5 are used for i2c communication. As a replacement D7 and D8 will be used as digital Input. For example by using two KY 032 IR proximity sensors. 
+Tis example uses my class "Arduino Nano as a 8 channel LC proximity sensor". In this case A4 and A5 are used for i2c communication. As a replacement D7 and D8 will be used as digital Input. For example by using two KY 032 IR proximity sensors. 
 ![Alt text](pictures/8SensorNanoV3.png)
 Frizzing proposal
 
