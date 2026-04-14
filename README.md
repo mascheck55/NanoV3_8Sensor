@@ -35,7 +35,7 @@ This project **requires physical I2C pins**:
 - Newer Nano boards with **ATmega328PB** provide a second I2C interface  
 - Availability of Nano V4 (328PB) may be limited → choose hardware carefully
 - if you do not need A4/A5 you may use it for LC_Sensor
-- I was not able to make it working on an NanoV§(old bootloader) with i2c towards DCC-EX
+- I was now able to make it working on an NanoV3(old bootloader) with i2c towards DCC-EX
 >⚠️ the code for Nano V4 was only to compile with:
 
 Arduino IDE Version: 2.3.8
