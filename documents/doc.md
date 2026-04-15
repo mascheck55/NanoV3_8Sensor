@@ -315,7 +315,7 @@ Pins A4 and A5 can be freed for I2C communication, allowing sensor data to be sh
 
 * **Original Concept:** Albert Messmer's inductive sensor design ([archived](https://web.archive.org/web/20250808132851/http://coole-basteleien.de/naeherungssensor))
 * **Test Repository:** [SensorTester5](https://github.com/mascheck55/SensorTester5)
-* **Main Repository:** [EX-IOLC_proxy](https://github.com/mascheck55/EX-IOLC_proxy)
+* **Main Repository:** [EX-IOLC_proxy](https://github.com/mascheck55/NanoV3_8Sensor)
 
 ---
 
