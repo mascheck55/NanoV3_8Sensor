@@ -14,8 +14,8 @@ Copyright (c) 2026 Andreas Mascheck
 
 ---
 
-## Description
-This example demonstrates my "Arduino Nano as an 8-channel LC proximity sensor" class. Since A4 and A5 are utilized for I2C communication, digital inputs D7 and D8 serve as replacements. This can be implemented using, for example, two KY 032 IR proximity sensors.
+## Description if [using DCC-EX](https://dcc-ex.com/ex-commandstation/accessories/sensors/which-sensor-type.html#gsc.tab=0)
+This example demonstrates my "Arduino Nano as an 8-channel LC proximity sensor" class as DCC-EX **Block Sensor**. Since A4 and A5 are utilized for I2C communication, digital inputs D7 and D8 serve as replacements. This can be implemented using, for example, two KY 032 IR proximity sensors.
 
 ![Alt text](pictures/8SensorNanoV3.png) Fritzing proposal
 
